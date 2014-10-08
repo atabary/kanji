@@ -1,4 +1,4 @@
-kanji
-=====
+Elixir Kanji
+============
 
-Simple tool to generate exercises to study kanjis.
+A simple tool to generate exercises to study kanjis.
