@@ -8,6 +8,6 @@ defmodule Kanji.Sentence do
             kana:    "",
             meaning: "",
             lesson:  0,
-            type:    @sentence,
+            type:    @sentence
 
 end
